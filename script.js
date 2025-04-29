@@ -13,7 +13,7 @@ function handleYesClick() {
 
 const messages = [
     "Are you sure?",
-    "Really sure Sara??",
+    "Really sure??",
     "Are you positive?",
     "Pookie please...",
     "Just think about it!",
